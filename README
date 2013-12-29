@@ -1,0 +1,19 @@
+rotten-tomatoes
+===============
+Analyzes movie reviews using data from the Rotten Tomatoes API. The four main 
+objectives of the implementation are:
+	1) work with a web API
+	2) taking a Bayesian approach in order to make and interpret 
+	   predictions 
+	3) Use the Naive Bayes algorithm to predict whether a movie review is
+	   positive or negative
+	4) Optimizing models using cross validation
+
+The code was written for a problem set for Harvard University course CS109. 
+
+Author
+======
+Alex Lehman
+ealehman91@gmail.com
+
+Graph plotting code, instructions, and various snippets provided by CS109 staff (see rotten_tomatoes.ipynb for implementation and provided instructions.)
